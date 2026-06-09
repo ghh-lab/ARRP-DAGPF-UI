@@ -1,0 +1,428 @@
+{
+  "labels": {
+    "0": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "11": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "18": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "19": {
+      "vegCat": 22,
+      "displayName": "Serres"
+    },
+    "26": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "27": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "29": {
+      "vegCat": 18,
+      "displayName": "Verger polyvalent / fruits divers"
+    },
+    "40": {
+      "vegCat": 22,
+      "displayName": "Serres"
+    },
+    "42": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "56": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "58": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "59": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "68": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "72": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "75": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "83": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "87": {
+      "vegCat": 8,
+      "displayName": "Maraichage"
+    },
+    "90": {
+      "vegCat": 8,
+      "displayName": "Maraichage"
+    },
+    "95": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "98": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "115": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "117": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "118": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "119": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "120": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "121": {
+      "vegCat": 8,
+      "displayName": "Maraichage"
+    },
+    "122": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "123": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "127": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "129": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "131": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "135": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "140": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "142": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "146": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "156": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "157": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "159": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "174": {
+      "vegCat": 18,
+      "displayName": "Verger polyvalent / fruits divers"
+    },
+    "183": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "193": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "198": {
+      "vegCat": 21,
+      "displayName": "Nuage"
+    },
+    "199": {
+      "vegCat": 8,
+      "displayName": "Maraichage"
+    },
+    "208": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "216": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "221": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "225": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "228": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "232": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "237": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "239": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "241": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "248": {
+      "vegCat": 1,
+      "displayName": "Bananier"
+    },
+    "249": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "255": {
+      "vegCat": 12,
+      "displayName": "Papayer"
+    },
+    "259": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "268": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "273": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "275": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "283": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "292": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "297": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "302": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "306": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "313": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "315": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "316": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "317": {
+      "vegCat": 4,
+      "displayName": "Canne a sucre"
+    },
+    "320": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "321": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "326": {
+      "vegCat": 17,
+      "displayName": "Maraichage"
+    },
+    "328": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "330": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "332": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "339": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "343": {
+      "vegCat": 2,
+      "displayName": "Cocotier / cocoteraie"
+    },
+    "345": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "348": {
+      "vegCat": 15,
+      "displayName": "Noni"
+    },
+    "349": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "350": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "359": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "360": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "361": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "373": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "375": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "385": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "394": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "410": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "420": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "421": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "431": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "432": {
+      "vegCat": 4,
+      "displayName": "Canne a sucre"
+    },
+    "437": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "439": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "444": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "446": {
+      "vegCat": 23,
+      "displayName": "Autre"
+    },
+    "448": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "451": {
+      "vegCat": 4,
+      "displayName": "Canne a sucre"
+    },
+    "452": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "458": {
+      "vegCat": 5,
+      "displayName": "Ananas"
+    },
+    "459": {
+      "vegCat": 4,
+      "displayName": "Canne a sucre"
+    },
+    "464": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "465": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "468": {
+      "vegCat": 17,
+      "displayName": "Prairie / paturage"
+    },
+    "473": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    },
+    "477": {
+      "vegCat": 19,
+      "displayName": "Jungle apparente"
+    }
+  }
+}

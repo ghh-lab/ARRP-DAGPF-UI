@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+matplotlib
+hdbscan>=0.8.33

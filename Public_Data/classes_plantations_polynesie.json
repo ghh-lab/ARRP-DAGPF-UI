@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "territoire": "Polynesie francaise",
+  "description": "Classes de reference pour plantations et cultures perennes en Polynesie francaise (usage SIG, classification, harmonisation des libelles).",
+  "classes": [
+    {
+      "code": 1,
+      "nom": "Bananier",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["banane", "bananeraie", "plantation banane"]
+    },
+    {
+      "code": 2,
+      "nom": "Cocotier / cocoteraie",
+      "groupe": "Cultures fruitieres et industrielles",
+      "exemples_libelles": ["coprah", "noix de coco", "cocoteraie"]
+    },
+    {
+      "code": 3,
+      "nom": "Agrumes",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["agrumes", "orange", "citron", "pamplemousse", "mandarine"]
+    },
+    {
+      "code": 4,
+      "nom": "Canne a sucre",
+      "groupe": "Cultures industrielles",
+      "exemples_libelles": [
+        "canne",
+        "champ de canne",
+        "canna",
+        "canna a sucre",
+        "champ de canna"
+      ]
+    },
+    {
+      "code": 5,
+      "nom": "Ananas",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["ananas", "culture ananas"]
+    },
+    {
+      "code": 6,
+      "nom": "Vanille",
+      "groupe": "Cultures de rente",
+      "exemples_libelles": ["vanille", "vanilleraie"]
+    },
+    {
+      "code": 7,
+      "nom": "Cafe",
+      "groupe": "Cultures de rente",
+      "exemples_libelles": ["cafe", "cafeier"]
+    },
+    {
+      "code": 8,
+      "nom": "Maraichage",
+      "groupe": "Cultures annuelles et maraicheres",
+      "exemples_libelles": ["maraichage", "legumes", "culture maraichere"]
+    },
+    {
+      "code": 9,
+      "nom": "Patate douce",
+      "groupe": "Cultures vivrieres",
+      "exemples_libelles": ["patate douce", "umara"]
+    },
+    {
+      "code": 10,
+      "nom": "Taro / taro d'eau",
+      "groupe": "Cultures vivrieres",
+      "exemples_libelles": ["taro", "taro d'eau", "fei"]
+    },
+    {
+      "code": 11,
+      "nom": "Igname",
+      "groupe": "Cultures vivrieres",
+      "exemples_libelles": ["igname", "name"]
+    },
+    {
+      "code": 12,
+      "nom": "Papayer",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["papaye", "papayer"]
+    },
+    {
+      "code": 13,
+      "nom": "Manguier",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["mangue", "manguier"]
+    },
+    {
+      "code": 14,
+      "nom": "Avocatier",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["avocat", "avocatier"]
+    },
+    {
+      "code": 15,
+      "nom": "Noni",
+      "groupe": "Cultures fruitieres et medicinales",
+      "exemples_libelles": ["noni", "nonu"]
+    },
+    {
+      "code": 16,
+      "nom": "Floriculture / cultures ornementales",
+      "groupe": "Cultures specialisees",
+      "exemples_libelles": ["fleurs", "tiare", "culture florale"]
+    },
+    {
+      "code": 17,
+      "nom": "Prairie / paturage",
+      "groupe": "Herbages",
+      "exemples_libelles": ["paturage", "prairie", "herbage"]
+    },
+    {
+      "code": 18,
+      "nom": "Divers agrumes",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["verger", "fruits divers", "arbres fruitiers melanges"]
+    },
+    {
+      "code": 19,
+      "nom": "Jungle apparente",
+      "groupe": "Divers",
+      "exemples_libelles": []
+    },
+    {
+      "code": 20,
+      "nom": "Abris / maison",
+      "groupe": "Divers",
+      "exemples_libelles": ["abri", "maison", "case", "hangar", "shelter"]
+    },
+    {
+      "code": 21,
+      "nom": "Nuage",
+      "groupe": "Divers",
+      "exemples_libelles": ["nuage", "nuageux", "cloud", "ombrage nuageux"]
+    },
+    {
+      "code": 22,
+      "nom": "Serres",
+      "groupe": "Cultures specialisees",
+      "exemples_libelles": ["serre", "serres", "tunnels", "greenhouse", "chassis"]
+    },
+    {
+      "code": 23,
+      "nom": "Autre",
+      "groupe": "Divers",
+      "exemples_libelles": ["autre", "divers", "non classe", "autres cultures"]
+    },
+    {
+      "code": 24,
+      "nom": "A labelliser",
+      "groupe": "Divers",
+      "exemples_libelles": [
+        "a labelliser",
+        "a labeliser",
+        "a etiqueter",
+        "non etiquete",
+        "en attente etiquette"
+      ]
+    },
+    {
+      "code": 25,
+      "nom": "Batiments",
+      "groupe": "Divers",
+      "exemples_libelles": [
+        "batiment",
+        "batiments",
+        "building",
+        "toiture",
+        "construction",
+        "structure batie"
+      ]
+    },
+    {
+      "code": 26,
+      "nom": "Citron",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["citron", "citronnier", "culture citron"]
+    },
+    {
+      "code": 27,
+      "nom": "Divers arbres fruitiers",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["arbres fruitiers", "fruits divers", "verger melange", "arbres fruitiers melanges"]
+    },
+    {
+      "code": 28,
+      "nom": "Pamplemousse",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["pamplemousse", "pamplemoussier", "culture pamplemousse"]
+    },
+    {
+      "code": 29,
+      "nom": "Mangue",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["mangue", "manguier", "culture mangue"]
+    },
+    {
+      "code": 30,
+      "nom": "Salade",
+      "groupe": "Cultures annuelles et maraicheres",
+      "exemples_libelles": ["salade", "laitue", "culture salade", "maraichage salade"]
+    },
+    {
+      "code": 31,
+      "nom": "Cultures maraicheres",
+      "groupe": "Cultures annuelles et maraicheres",
+      "exemples_libelles": ["maraichage", "legumes", "culture maraichere", "potager", "maraicheres"]
+    },
+    {
+      "code": 32,
+      "nom": "Cultures aromatiques",
+      "groupe": "Cultures annuelles et maraicheres",
+      "exemples_libelles": ["aromatiques", "herbes aromatiques", "basilic", "persil", "coriandre", "menthe"]
+    },
+    {
+      "code": 33,
+      "nom": "Pepiniere",
+      "groupe": "Cultures specialisees",
+      "exemples_libelles": ["pepiniere", "pepinieres", "plants", "reproduction vegetale", "semis"]
+    },
+    {
+      "code": 34,
+      "nom": "Tamarin",
+      "groupe": "Cultures fruitieres",
+      "exemples_libelles": ["tamarin", "tamarinier", "culture tamarin"]
+    },
+    {
+      "code": 35,
+      "nom": "Culture florale",
+      "groupe": "Cultures specialisees",
+      "exemples_libelles": ["culture florale", "fleurs", "floriculture", "tiare"]
+    }
+  ]
+}
