@@ -2,22 +2,23 @@ FROM node:20-alpine
 
 WORKDIR /app
 
-ENV NODE_ENV=production
 ENV PORT=3000
 
 # 1. On copie d'abord les fichiers de dépendances
 COPY package.json package-lock.json ./
 
-# 2. On installe TOUTES les dépendances nécessaires pour compiler le projet
-RUN npm ci
+# 2. On force l'installation de TOUTES les dépendances (y compris TypeScript pour le build)
+RUN npm ci --include=dev
 
-# 3. On copie tout le reste du code source (depuis le dossier UI_APP)
+# 3. On copie tout le reste du code source
 COPY . .
 
-# 4. On lance la compilation directement sur ton VPS Hostinger (génère le dossier .next)
+# 4. On lance la compilation (l'alias @/ va maintenant fonctionner !)
 RUN npm run build
 
+# 5. On passe en mode production UNIQUEMENT pour l'exécution de l'application
+ENV NODE_ENV=production
 EXPOSE 3000
 
-# 5. On démarre l'application Next.js
+# 6. On démarre l'application Next.js
 CMD ["npm", "run", "start", "--", "-p", "3000"]
