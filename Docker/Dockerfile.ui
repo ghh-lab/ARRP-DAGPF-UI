@@ -5,13 +5,19 @@ WORKDIR /app
 ENV NODE_ENV=production
 ENV PORT=3000
 
+# 1. On copie d'abord les fichiers de dépendances
 COPY package.json package-lock.json ./
-RUN npm ci --omit=dev && npm install --no-save typescript && npm cache clean --force
 
-COPY .next ./.next
-COPY public ./public
-COPY next.config.mjs ./next.config.mjs
+# 2. On installe TOUTES les dépendances nécessaires pour compiler le projet
+RUN npm ci
+
+# 3. On copie tout le reste du code source (depuis le dossier UI_APP)
+COPY . .
+
+# 4. On lance la compilation directement sur ton VPS Hostinger (génère le dossier .next)
+RUN npm run build
 
 EXPOSE 3000
 
+# 5. On démarre l'application Next.js
 CMD ["npm", "run", "start", "--", "-p", "3000"]
